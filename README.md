@@ -17,10 +17,14 @@
 
 
 
+
+
 ## 📊 GitHub Stats
 ![Naetik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naetiksoni08&show_icons=true&theme=dark)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naetiksoni08&layout=compact&theme=dark)
+
+
 
 
 
@@ -30,6 +34,8 @@
 ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?logo=mongodb&logoColor=white&style=flat)
+
+
 
 
 <!--
