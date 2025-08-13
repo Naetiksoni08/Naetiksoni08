@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there !!! I'm Naetik Soni 👋  
+
+🚀 MERN Stack Developer | Java DSA Enthusiast  
+
+## About Me  
+- 🌱 Currently learning **Node.js**, **MongoDB**, **Express**, and **React.js**  
+- 💻 I love building full-stack web applications and solving DSA problems  
+- 🤝 Open to collaborating on interesting GitHub projects  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/naetik-soni-982156341) | naetiksoni08@gmail.com  
+- ⚡ Fun fact: I write code as if my Stack Overflow reputation depends on it  
+
 
 <!--
 **Naetiksoni08/Naetiksoni08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
