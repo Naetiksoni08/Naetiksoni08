@@ -30,13 +30,12 @@
 
 
 ## 🛠 Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?logo=mongodb&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white&style=flat)
-
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&logoColor=F7DF1E&style=flat)
+![React](https://img.shields.io/badge/-React-black?logo=react&logoColor=61DAFB&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&logoColor=339933&style=flat)
+![Express](https://img.shields.io/badge/-Express-black?logo=express&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&logoColor=47A248&style=flat)
+![Java](https://img.shields.io/badge/-Java-black?logo=openjdk&logoColor=white&style=flat)
 
 
 
