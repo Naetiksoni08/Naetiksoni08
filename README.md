@@ -34,6 +34,8 @@
 ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?logo=mongodb&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white&style=flat)
+
 
 
 
