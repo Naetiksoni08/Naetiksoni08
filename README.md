@@ -12,7 +12,7 @@
 
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Naetiksoni08&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Naetiksoni08&theme=darkhub)
 
 
 
@@ -20,9 +20,9 @@
 
 
 ## 📊 GitHub Stats
-![Naetik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naetiksoni08&show_icons=true&theme=dark)  
+![Naetik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naetiksoni08&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naetiksoni08&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naetiksoni08&layout=compact&theme=tokyonight)
 
 
 
