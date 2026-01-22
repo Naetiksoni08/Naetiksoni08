@@ -12,7 +12,8 @@
 
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Naetiksoni08&theme=onedark&no-frame=true&margin-w=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Naetiksoni08&no-frame=true)
+
 
 
 
