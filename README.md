@@ -11,23 +11,6 @@
 
 
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Naetiksoni08&theme=radical)
-
-
-
-
-
-
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Naetiksoni08&show_icons=true&theme=radical)
-
-
-
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naetiksoni08&layout=compact&theme=radical)
-
 
 
 
